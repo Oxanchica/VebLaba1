@@ -1,0 +1,24 @@
+﻿h1 {
+	color: pink;
+    }
+
+
+p {
+	text-indent: 60px;
+	font-size: larger;
+}
+
+
+footer {
+	background: #333;
+}
+
+
+.footer {
+	color: white;
+}
+
+
+table caption {
+	color: blue;
+}
